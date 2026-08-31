@@ -1,0 +1,14 @@
+# Scala/sbt
+target/
+project/target/
+project/project/
+.bloop/
+.metals/
+.vscode/
+
+# Downloaded data
+src/main/resources/imdb/*.tsv
+src/main/resources/imdb/*.tsv.gz
+
+# OS/editor
+.DS_Store
